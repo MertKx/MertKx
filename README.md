@@ -1,6 +1,6 @@
 <h1 align="center">Howdy! 👋 I'm Mert Kalay</h1>
 <h3 align="center">A tech guy from Turkey.</h3>
-<img align="right" alt="universe" with="400" src="https://i.pinimg.com/originals/aa/96/2b/aa962b2d1ff3fb78ed1e1d5bc1729878.gif">
+<img align="right" alt="universe" with="400" src="https://github.blog/wp-content/uploads/2019/01/pricing-social.png?fit=1200%2C630">
 
 - 🔭 I’m currently focused on **Backend Development**
 
