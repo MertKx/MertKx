@@ -1,5 +1,4 @@
 <h1 align="center">Howdy! 👋 I'm Mert Kalay</h1>
-<h3 align="center">A tech guy from Turkiye.</h3>
 <img align="right" alt="universe" with="400" src="https://github.blog/wp-content/uploads/2019/01/pricing-social.png?fit=1200%2C630">
 
 - 🔭 I’m currently focused on **Machine Learning**
