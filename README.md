@@ -1,10 +1,6 @@
 <h1 align="center">Howdy! 👋 I'm Mert Kalay</h1>
 <img align="right" alt="universe" with="400" src="https://github.blog/wp-content/uploads/2019/01/pricing-social.png?fit=1200%2C630">
 
-- 🔭 I’m currently focused on **Machine Learning**
-
-- 📖 Right now, I'm in the process of learning **Artificial Intelligance**
-
 - 🤝 I'm seeking guidance on **improving myself :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MertKx?tab=repositories](https://github.com/MertKx?tab=repositories)
